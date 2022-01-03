@@ -4,6 +4,8 @@ function out = model
 %
 % Model exported on Dec 31 2021, 16:02 by COMSOL 5.5.0.292.
 
+clear;
+
 import com.comsol.model.*
 import com.comsol.model.util.*
 

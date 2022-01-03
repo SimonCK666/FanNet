@@ -1,6 +1,6 @@
 import com.comsol.model.*
 import com.comsol.model.util.*
-
+clear;
 
 for i = 1:2
 
